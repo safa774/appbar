@@ -11,8 +11,6 @@ import 'package:flutter/material.dart';
      child: InkWell(
        borderRadius: BorderRadius.circular(100),
        onTap:onTap,
-
-
        child: Container(
          //margin:EdgeInsets.symmetric(vertical: 5),
          padding: EdgeInsets.symmetric(horizontal: 20),
