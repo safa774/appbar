@@ -9,7 +9,7 @@ borderSide: BorderSide(color: Colors.grey,width: 1),
   Widget build(BuildContext context) {
     return Column(
       children:[
-Row(children: [
+    Column(children: [
   Container(height: 100,
   width: 100,
   decoration: BoxDecoration(
