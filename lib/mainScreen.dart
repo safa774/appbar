@@ -32,8 +32,7 @@ class MainScreen extends StatelessWidget {
                     enabledBorder: inputDecoration,
                     disabledBorder: inputDecoration,
                     errorBorder: inputDecoration.copyWith(
-                      borderSide: BorderSide(color: Colors.red),
-
+                      borderSide: BorderSide(color: Colors.red)
                       /*border:OutlineInputBorder(
         borderRadius: BorderRadius.circular(16),
         borderSide: BorderSide(color: Colors.grey,width: 1),
