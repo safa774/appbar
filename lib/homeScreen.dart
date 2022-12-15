@@ -10,8 +10,9 @@ class homescreens extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     return DefaultTabController(
-      length:6 ,
-      initialIndex: 0,
+      length:6
+      ,
+
       child: Scaffold(
           appBar:AppBar(
              backgroundColor:Colors.white,
